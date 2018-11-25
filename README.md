@@ -6,9 +6,16 @@ Discover how to use Python—and some essential machine learning concepts—to b
 Learning Objectives:
 
 Working with recommendation systems.
+
 Evaluating similarity based on correlation.
+
 Building a popularity-based recommender.
+
 Classification-based recommendations.
+
 Making a collaborative filtering system.
+
 Content-based recommender systems.
+
 Evaluating recommenders.
+
